@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I work as a software developer to help companies to grow up fast using scalable solutions.
+
+## Technologies ⚡
+- Front-end development **using ReactJS and Rails framework** 🖼
+- Back-end development **using Ruby, and Node.js** 🏗
+- Architectural design and development for **relational databases (MySQL, PostgreSQL and SQL Server)** and **non-relational databases (MongoDB, CouchDB, Redis)** 📦
+- Telecommunication systems using **Asterisk** :
+  - Protocols (SIP, IAX and RTP)
+  - VOIP
+  - AEL
+  - ... and other services
+ - Improve my skills with monitoring tools, such as **Zabbix**, **Telegraf** and **Grafana** 🚀
+## Useful links
+👉 [LinkedIn](linkedin.com/in/leonardorebellos/)
