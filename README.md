@@ -18,7 +18,7 @@ I work as a software developer to help companies to grow up fast using scalable 
 
 ## Technologies ⚡
 - Front-end development **using ReactJS and Rails framework** 🖼
-- Back-end development **using Ruby, and Node.js** 🏗
+- Back-end development **using Ruby, Python, Java and Node.js** 🏗
 - Architectural design and development for **relational databases (MySQL, PostgreSQL and SQL Server)** and **non-relational databases (MongoDB, CouchDB, Redis)** 📦
 - Telecommunication systems using **Asterisk** :
   - Protocols (SIP, IAX and RTP)
